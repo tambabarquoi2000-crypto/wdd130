@@ -3,6 +3,14 @@ main {
 
 }
 
+nav {background-color: #eee;
+padding: 1rem;}
+
+nav a {color: black;
+padding: 1rem;
+display: block;
+}
+
 aside {
     width: 20rem;
     margin: 0;
@@ -18,7 +26,8 @@ aside img {width: 200px;
 height: auto;}
 
 main img {width: 150px;
-height: auto;}
+height: auto;
+border: }
 
 p {padding: 0;}
 
