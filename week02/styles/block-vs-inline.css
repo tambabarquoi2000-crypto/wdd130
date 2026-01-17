@@ -6,6 +6,7 @@
 body {
     font-size: 20px;
     margin: 1rem;
+    background-color: red;
 }
 
 p,
@@ -40,3 +41,4 @@ code {
     background-color: #3d503d;
     color: #fff;
 }
+main {background-color: orange`;}
