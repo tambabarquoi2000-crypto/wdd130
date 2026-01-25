@@ -39,7 +39,7 @@ nav, p, section, article {
     text-decoration: none;
 }
 
-.hero {
+.hero article {
     position: relative;
 }
 
