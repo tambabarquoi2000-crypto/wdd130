@@ -62,3 +62,31 @@ color: #fff;}
     float: right;
     width: 125px
 }
+
+article {
+    position: absolute;
+    bottom: 10px;
+    background-color: var(--accent2-color);
+    opacity: 0.70;
+    color: black;
+    text-shadow: rgb(0 0 0 0.2) 0.5px;
+}
+
+.hero {background-color: blue;}
+
+section {
+    width: 840px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+section h2 {
+    background-color: var(--secondary-color);
+    color: white;
+    padding: 5px;
+    font-size: 1rem;
+}
+
+section p {
+    text-align: justify;
+}
